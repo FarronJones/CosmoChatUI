@@ -7,8 +7,7 @@ import Dashboard from './Dashboard.jsx';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-//API_KEY
-const API_KEY = "sk-proj-4n9ZPRyGnLcppuWWCbSMT3BlbkFJc3JD1ObM7FNpIPA5X2Pb";
+
 
 //Const systemMessage to help the chatbot explain things to the user.
 const systemMessage = {
