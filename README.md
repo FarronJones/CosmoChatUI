@@ -5,8 +5,8 @@ Embarking on the Mission Project for Radical AI, CosmoChatUI aims to provide a c
 # Snippets:
 
 # Activity Dashboard:
-(![image](https://github.com/FarronJones/CosmoChatUI/assets/104745250/78c93dbb-f164-461f-b7d0-fee2366ad44e)
+![image](https://github.com/FarronJones/CosmoChatUI/assets/104745250/78c93dbb-f164-461f-b7d0-fee2366ad44e)
 
 # Saved Chats Function:
-(![image](https://github.com/FarronJones/CosmoChatUI/assets/104745250/f36b17d8-e0fa-43b0-a8bf-fd944bc1cc72)
+![image](https://github.com/FarronJones/CosmoChatUI/assets/104745250/f36b17d8-e0fa-43b0-a8bf-fd944bc1cc72)
 
