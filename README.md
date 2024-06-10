@@ -10,3 +10,7 @@ Embarking on the Mission Project for Radical AI, CosmoChatUI aims to provide a c
 # Saved Chats Function:
 ![image](https://github.com/FarronJones/CosmoChatUI/assets/104745250/f36b17d8-e0fa-43b0-a8bf-fd944bc1cc72)
 
+# Notifications:
+![image](https://github.com/FarronJones/CosmoChatUI/assets/104745250/fdb6c8e6-7b42-4af8-a985-8ec7e6bc398d)
+
+
